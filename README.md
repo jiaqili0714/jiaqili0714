@@ -1,5 +1,6 @@
 - 👋 Hi, this is Jiaqi
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m a rising senoir @Smith College
+- SQL/Python/R
 
 <!---
 jiaqili0714/jiaqili0714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
