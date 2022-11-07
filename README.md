@@ -1,5 +1,5 @@
 - 👋 Hi, this is Jiaqi
-- 🌱 I’m a rising senoir @Smith College
+- 🌱 I’m a senoir @Smith College
 - SQL/Python/R
 
 <!---
